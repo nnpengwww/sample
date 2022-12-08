@@ -10,6 +10,6 @@ public class HelloWorldController {
 
     @RequestMapping("/")
     public String sayHello() {
-        return "Really appreciate your star, that's the power of our life.碰";
+        return "更新了.碰";
     }
 }
